@@ -1,0 +1,3 @@
+2,09790 NaN Infinity 
+-Infinity 0 -0 
+-2,23750E-154 0 0 
